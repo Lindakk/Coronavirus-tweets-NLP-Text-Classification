@@ -1,6 +1,7 @@
 Sentiment Analysis of Coronavirus Tweets using BERT
 
-Overview
+Overview:
+
 This project implements sentiment analysis on tweets related to the coronavirus pandemic using BERT (Bidirectional Encoder Representations from Transformers) with TensorFlow. The dataset comprises tweets pulled from Twitter, which have been manually tagged for sentiment classification.
 
 The objectives of this project are to:
